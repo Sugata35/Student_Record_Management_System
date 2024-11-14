@@ -1,7 +1,3 @@
-Here's a README that is ready to be copied and pasted directly into GitHub:
-
----
-
 # Student Record Management System
 
 ## Table of Contents
